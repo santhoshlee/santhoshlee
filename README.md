@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Santhosh Kumar and I'm as a Mobile Application Developer /</p>
+<p align="left">My name is Santhosh Kumar and I'm Work as a Mobile Application Developer /</p>
 
 ###
 
